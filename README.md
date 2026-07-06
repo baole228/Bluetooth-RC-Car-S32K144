@@ -33,12 +33,3 @@ Bluetooth-controlled RC car developed using the NXP S32K144 microcontroller.
 ## Demo
 
 https://github.com/user-attachments/assets/c540b2fa-5d21-4124-8b7c-a28ae4c9f9f4
-
-
-
-
-
-
-## Demo
-
-(Add video here)##
